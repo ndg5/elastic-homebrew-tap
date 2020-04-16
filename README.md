@@ -17,7 +17,7 @@ The following products are supported:
   - Beats
   
         - Auditbeat brew install elastic/tap/auditbeat-full
-     Filebeat brew install elastic/tap/filebeat-full
+        - Filebeat brew install elastic/tap/filebeat-full
         - Heartbeat brew install elastic/tap/heartbeat-full
         - Metricbeat brew install elastic/tap/metricbeat-full
         - Packetbeat brew install elastic/tap/packetbeat-full
